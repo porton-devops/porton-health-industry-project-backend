@@ -67,5 +67,6 @@ password: 1234567
 
 
 ## APIs
+- After you start the application
 - Base URL: http://localhost:3333/api/
 - Swagger document can be found at: http://localhost:3333/api-docs/
